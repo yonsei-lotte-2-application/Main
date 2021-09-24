@@ -7,7 +7,7 @@
 ## 제출 방법
 Kaggle에 Submission 파일 제출후 구간별 점수를 넘어보세요!
 
-## 과제 (0 pt)
+## 과제 (100 pt)
 ### Kaggle 참여 ID : `kaggle-master`
 
 [Assignment-W2]
